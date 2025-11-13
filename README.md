@@ -45,17 +45,17 @@ pip install -r requirements.txt
 
 **Paladin Project operates in three coordinated phases:**
 
-### **Intelligent Reconnaissance**
+### Intelligent Reconnaissance
 - Discovers real server IPs behind CDNs using DNS analysis, SSL certificate inspection, and subdomain enumeration
 - Identifies open ports and services through aggressive multi-threaded scanning
 - Maps cloud infrastructure and finds origin servers
 
-### **Multi-Layer Attack Coordination** 
-- **Application Layer**: HTTP floods with browser fingerprint spoofing and automatic challenge solving
-- **Transport Layer**: SYN floods, TCP connection exhaustion, and UDP amplification
-- **Evasion Layer**: Residential IP rotation, multi-client switching, and behavioral simulation
+### Multi-Layer Attack Coordination*
+- Application Layer: HTTP floods with browser fingerprint spoofing and automatic challenge solving
+- Transport Layer: SYN floods, TCP connection exhaustion, and UDP amplification
+- Evasion Layer: Residential IP rotation, multi-client switching, and behavioral simulation
 
-### **Adaptive Attack Engine**
+### Adaptive Attack Engine
 - Automatically escalates intensity across multiple phases
 - Falls back to alternative methods when defenses are detected
 - Coordinates 50+ simultaneous attack threads with real-time monitoring
