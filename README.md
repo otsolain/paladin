@@ -1,3 +1,4 @@
+![paladin](https://github.com/user-attachments/assets/e435c005-645e-4c24-b6d9-864d9d512d06)
 Paladin Project is an advanced multi-vector DDoS testing tool designed for authorized penetration testing. This tool combines sophisticated reconnaissance techniques with powerful attack vectors to simulate real-world DDoS scenarios
 
 ## Legal disclaimer:
